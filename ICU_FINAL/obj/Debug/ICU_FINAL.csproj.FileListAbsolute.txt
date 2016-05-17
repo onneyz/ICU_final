@@ -1,0 +1,62 @@
+C:\Users\ONY\Documents\Visual Studio 2013\Projects\ICU_FINAL\ICU_FINAL\bin\Debug\ICU_FINAL.exe.config
+C:\Users\ONY\Documents\Visual Studio 2013\Projects\ICU_FINAL\ICU_FINAL\obj\Debug\ICU_FINAL.csprojResolveAssemblyReference.cache
+C:\Users\ONY\Documents\Visual Studio 2013\Projects\ICU_FINAL\ICU_FINAL\obj\Debug\ICU_FINAL.main.resources
+C:\Users\ONY\Documents\Visual Studio 2013\Projects\ICU_FINAL\ICU_FINAL\obj\Debug\ICU_FINAL.Properties.Resources.resources
+C:\Users\ONY\Documents\Visual Studio 2013\Projects\ICU_FINAL\ICU_FINAL\obj\Debug\ICU_FINAL.csproj.GenerateResource.Cache
+C:\Users\ONY\Documents\Visual Studio 2013\Projects\ICU_FINAL\ICU_FINAL\bin\Debug\ICU_FINAL.exe
+C:\Users\ONY\Documents\Visual Studio 2013\Projects\ICU_FINAL\ICU_FINAL\bin\Debug\ICU_FINAL.pdb
+C:\Users\ONY\Documents\Visual Studio 2013\Projects\ICU_FINAL\ICU_FINAL\bin\Debug\MaterialSkin.dll
+C:\Users\ONY\Documents\Visual Studio 2013\Projects\ICU_FINAL\ICU_FINAL\obj\Debug\ICU_FINAL.exe
+C:\Users\ONY\Documents\Visual Studio 2013\Projects\ICU_FINAL\ICU_FINAL\obj\Debug\ICU_FINAL.pdb
+C:\Users\ONY\Documents\Visual Studio 2013\Projects\ICU_FINAL\ICU_FINAL\obj\Debug\ICU_FINAL.fileformats.resources
+C:\Users\ONY\Documents\Visual Studio 2013\Projects\ICU_FINAL\ICU_FINAL\obj\Debug\ICU_FINAL.result.resources
+C:\Users\ONY\Documents\Visual Studio 2013\Projects\ICU_FINAL\ICU_FINAL\obj\Debug\ICU_FINAL.search.resources
+D:\DownloadS\ICU-master-1\ICU_FINAL\bin\Debug\ICU_FINAL.exe.config
+D:\DownloadS\ICU-master-1\ICU_FINAL\obj\Debug\ICU_FINAL.exe
+D:\DownloadS\ICU-master-1\ICU_FINAL\obj\Debug\ICU_FINAL.pdb
+D:\DownloadS\ICU-master-1\ICU_FINAL\bin\Debug\ICU_FINAL.exe
+D:\DownloadS\ICU-master-1\ICU_FINAL\bin\Debug\ICU_FINAL.pdb
+D:\DownloadS\ICU-master-1\ICU_FINAL\bin\Debug\MaterialSkin.dll
+D:\DownloadS\ICU-master-1\ICU_FINAL\obj\Debug\ICU_FINAL.fileformats.resources
+D:\DownloadS\ICU-master-1\ICU_FINAL\obj\Debug\ICU_FINAL.main.resources
+D:\DownloadS\ICU-master-1\ICU_FINAL\obj\Debug\ICU_FINAL.Properties.Resources.resources
+D:\DownloadS\ICU-master-1\ICU_FINAL\obj\Debug\ICU_FINAL.result.resources
+D:\DownloadS\ICU-master-1\ICU_FINAL\obj\Debug\ICU_FINAL.search.resources
+D:\DownloadS\ICU-master-1\ICU_FINAL\obj\Debug\ICU_FINAL.csproj.GenerateResource.Cache
+D:\DownloadS\ICU-master-1\ICU_FINAL\bin\Debug\FluentAssertions.Core.dll
+D:\DownloadS\ICU-master-1\ICU_FINAL\bin\Debug\FluentAssertions.dll
+D:\DownloadS\ICU-master-1\ICU_FINAL\bin\Debug\FubuCore.dll
+D:\DownloadS\ICU-master-1\ICU_FINAL\bin\Debug\IKVM.AWT.WinForms.dll
+D:\DownloadS\ICU-master-1\ICU_FINAL\bin\Debug\IKVM.OpenJDK.Beans.dll
+D:\DownloadS\ICU-master-1\ICU_FINAL\bin\Debug\IKVM.OpenJDK.Charsets.dll
+D:\DownloadS\ICU-master-1\ICU_FINAL\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+D:\DownloadS\ICU-master-1\ICU_FINAL\bin\Debug\IKVM.OpenJDK.Corba.dll
+D:\DownloadS\ICU-master-1\ICU_FINAL\bin\Debug\IKVM.OpenJDK.Core.dll
+D:\DownloadS\ICU-master-1\ICU_FINAL\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+D:\DownloadS\ICU-master-1\ICU_FINAL\bin\Debug\IKVM.OpenJDK.Localedata.dll
+D:\DownloadS\ICU-master-1\ICU_FINAL\bin\Debug\IKVM.OpenJDK.Management.dll
+D:\DownloadS\ICU-master-1\ICU_FINAL\bin\Debug\IKVM.OpenJDK.Media.dll
+D:\DownloadS\ICU-master-1\ICU_FINAL\bin\Debug\IKVM.OpenJDK.Misc.dll
+D:\DownloadS\ICU-master-1\ICU_FINAL\bin\Debug\IKVM.OpenJDK.Naming.dll
+D:\DownloadS\ICU-master-1\ICU_FINAL\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+D:\DownloadS\ICU-master-1\ICU_FINAL\bin\Debug\IKVM.OpenJDK.Remoting.dll
+D:\DownloadS\ICU-master-1\ICU_FINAL\bin\Debug\IKVM.OpenJDK.Security.dll
+D:\DownloadS\ICU-master-1\ICU_FINAL\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+D:\DownloadS\ICU-master-1\ICU_FINAL\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\DownloadS\ICU-master-1\ICU_FINAL\bin\Debug\IKVM.OpenJDK.Tools.dll
+D:\DownloadS\ICU-master-1\ICU_FINAL\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\DownloadS\ICU-master-1\ICU_FINAL\bin\Debug\IKVM.OpenJDK.XML.API.dll
+D:\DownloadS\ICU-master-1\ICU_FINAL\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+D:\DownloadS\ICU-master-1\ICU_FINAL\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+D:\DownloadS\ICU-master-1\ICU_FINAL\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+D:\DownloadS\ICU-master-1\ICU_FINAL\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+D:\DownloadS\ICU-master-1\ICU_FINAL\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+D:\DownloadS\ICU-master-1\ICU_FINAL\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+D:\DownloadS\ICU-master-1\ICU_FINAL\bin\Debug\IKVM.Runtime.dll
+D:\DownloadS\ICU-master-1\ICU_FINAL\bin\Debug\IKVM.Runtime.JNI.dll
+D:\DownloadS\ICU-master-1\ICU_FINAL\bin\Debug\Lucene.Net.dll
+D:\DownloadS\ICU-master-1\ICU_FINAL\bin\Debug\nunit.framework.dll
+D:\DownloadS\ICU-master-1\ICU_FINAL\bin\Debug\TikaOnDotNet.dll
+D:\DownloadS\ICU-master-1\ICU_FINAL\bin\Debug\TikaOnDotNet.Tests.dll
+D:\DownloadS\ICU-master-1\ICU_FINAL\bin\Debug\TikaOnDotNet.TextExtraction.dll
+D:\DownloadS\ICU-master-1\ICU_FINAL\obj\Debug\ICU_FINAL.csprojResolveAssemblyReference.cache
