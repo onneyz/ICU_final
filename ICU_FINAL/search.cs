@@ -28,10 +28,10 @@ namespace ICU_FINAL
         // Search
         private void btnSearch_Click(object sender, EventArgs e)
         {
-            ExtractSearch extractSearch = new ExtractSearch();
-            var extractedResults = extractSearch.extractTika("Hardcoded File Address");
-            extractSearch.indexingDoc(extractedResults.docText, extractedResults);
-            extractSearch.doSearch(searchBox, searchResultBox);
+            //ExtractSearch extractSearch = new ExtractSearch();
+            //var extractedResults = extractSearch.extractTika("Hardcoded File Address");
+            //extractSearch.indexingDoc(extractedResults.docText, extractedResults);
+            //extractSearch.doSearch(searchBox, searchResultBox);
         }
 
         private void btnCancel_Click(object sender, EventArgs e)

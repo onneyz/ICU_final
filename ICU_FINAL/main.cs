@@ -18,6 +18,7 @@ namespace ICU_FINAL
     public partial class main : MaterialForm
     {
         public static string SelectedHDD;
+        public static string des_path;
         public main()
         {
             InitializeComponent();
@@ -56,7 +57,7 @@ namespace ICU_FINAL
             if (txtFolder.Text != "" && HDDcomboBox.Text != "")
             {
                 string cur_path = AppDomain.CurrentDomain.BaseDirectory;
-                string des_path = cur_path;
+                des_path = cur_path;
                 des_path = Path.Combine(cur_path, txtFolder.Text);
                 if (Directory.Exists(des_path) || IsValidPath(des_path) == false)
                 {

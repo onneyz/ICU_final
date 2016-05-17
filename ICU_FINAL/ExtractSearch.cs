@@ -25,7 +25,7 @@ namespace ICU_FINAL
         public ExtractSearchResults extractTika(string fileAddress)
         {
             ExtractSearchResults resultObject = new ExtractSearchResults();
-            fileAddress = Environment.CurrentDirectory + "\\Documents\\carved.docx";
+            //fileAddress = Environment.CurrentDirectory + "\\Documents\\1.docx";
 
             Console.WriteLine("*** Start Extracting ***");
 

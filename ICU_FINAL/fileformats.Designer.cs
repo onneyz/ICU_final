@@ -41,24 +41,11 @@
             this.formatsListBox.FormattingEnabled = true;
             this.formatsListBox.HorizontalScrollbar = true;
             this.formatsListBox.Items.AddRange(new object[] {
-            "bmp BMP bitmap image",
-            "dat IE History",
-            "doc Microsoft Office Document",
-            "exe MS Windows executable",
-            "gif Graphic Interchange Format",
-            "http HTTP Cache",
-            "jpg JPG picture",
-            "mov mov/mp4/3gp",
-            "mp3 MP3 audio",
-            "MYI MySQL",
-            "one Microsoft OneNote",
-            "pdf Portable Document Format",
-            "png Portable/JPG/Multiple-Image Network Graphics",
-            "psd Adobe Photoshop Image",
-            "rar Rar archive",
-            "tx? Text files with header: rtf,xml,xhtml,url",
-            "txt Other text files: txt,html,asp,bat,C,php",
-            "zip zip archive"});
+            "doc 11",
+            "docx MS word",
+            "jpg JPEG",
+            "ppt 13",
+            "xls 12"});
             this.formatsListBox.Location = new System.Drawing.Point(12, 71);
             this.formatsListBox.Name = "formatsListBox";
             this.formatsListBox.Size = new System.Drawing.Size(185, 214);

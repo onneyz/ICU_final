@@ -16,11 +16,6 @@ namespace ICU_FINAL
         public result()
         {
             InitializeComponent();
-            startCarve();
-        }
-
-        private void startCarve()
-        {
             Carve carve = new Carve();
             carve.searchHF(main.SelectedHDD);
             Console.WriteLine("HDD = {0}", main.SelectedHDD);
@@ -32,6 +27,7 @@ namespace ICU_FINAL
             this.Hide();
             form.Show();
         }
+
 
     }
 }

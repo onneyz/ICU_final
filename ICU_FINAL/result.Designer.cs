@@ -50,6 +50,7 @@
             this.filelistBox.Name = "filelistBox";
             this.filelistBox.Size = new System.Drawing.Size(472, 95);
             this.filelistBox.TabIndex = 1;
+            
             // 
             // btnSearch
             // 

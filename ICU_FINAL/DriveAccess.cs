@@ -148,7 +148,7 @@ namespace ICU_FINAL
         /// <returns>Number of sectors read</returns>
         public int ReadSectors(UInt64 startSector, UInt64 sectorCount, byte[] Buffer, int offset)
         {
-            Console.WriteLine("stratSector = {0} , sectorCount = {1} , buffer = {2}, offset = {3}",startSector,sectorCount,(Buffer.Length),offset);
+            //Console.WriteLine("stratSector = {0} , sectorCount = {1} , buffer = {2}, offset = {3}",startSector,sectorCount,(Buffer.Length),offset);
             if (sectorCount == 0) return 0; 
             if (startSector + sectorCount > driveGeometry.TotalSectors) return 0;
 
