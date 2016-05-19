@@ -42,6 +42,7 @@
             this.progressBar.Name = "progressBar";
             this.progressBar.Size = new System.Drawing.Size(472, 23);
             this.progressBar.TabIndex = 0;
+            
             // 
             // filelistBox
             // 
@@ -50,7 +51,6 @@
             this.filelistBox.Name = "filelistBox";
             this.filelistBox.Size = new System.Drawing.Size(472, 95);
             this.filelistBox.TabIndex = 1;
-            
             // 
             // btnSearch
             // 
@@ -106,6 +106,7 @@
             this.Sizable = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Result";
+            this.Load += new System.EventHandler(this.result_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

@@ -43,8 +43,10 @@
             this.formatsListBox.Items.AddRange(new object[] {
             "doc 11",
             "docx MS word",
-            "jpg JPEG",
-            "ppt 13",
+            "gif movingpic",
+            "html 1",
+            "jpg",
+            "pdf 1",
             "xls 12"});
             this.formatsListBox.Location = new System.Drawing.Point(12, 71);
             this.formatsListBox.Name = "formatsListBox";

@@ -30,13 +30,18 @@ namespace ICU_FINAL
                 // Use the IndexOf method to get the index of an item.
                 string[] tokens = formatsListBox.CheckedItems[i].ToString().Split(' ');
                 string ext = tokens[0];
-                MessageBox.Show("Item with title: \"" + ext);
-                ListOfEnFileType.Add(EXT.setTypeFeild(ext));
+                if (ext == "gif")
+                {
+                    ListOfEnFileType.Add(EXT.setTypeFeild("gif87a"));
+                    ListOfEnFileType.Add(EXT.setTypeFeild("gif89a"));
+                }
+                else
+                //MessageBox.Show("Item with title: \"" + ext);
+                    ListOfEnFileType.Add(EXT.setTypeFeild(ext));
 
             }
 
-            Carve c = new Carve();
-            c.testCountList();
+           
 
             this.Close();
         }

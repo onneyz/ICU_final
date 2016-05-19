@@ -34,6 +34,14 @@ namespace ICU_FINAL
                         ext.maxsize = -1;
                     }
                     break;
+                case "xlsx":
+                    {
+                        ext.extension = "xlsx";
+                        ext.header = new byte[] { 0x50, 0x4B, 0x03, 0x04, 0x14, 0x00, 0x06, 0x00 };
+                        ext.footer = new byte[] { 0x64, 0x6F, 0x63, 0x50, 0x72, 0x6F, 0x70, 0x73, 0x2F, 0x63, 0x6F, 0x72, 0x65, 0x2E, 0x78, 0x6D, 0x6C, 0x50, 0x4B };
+                        ext.maxsize = -1;
+                    }
+                    break;
                 case "doc":
                     {
                         ext.extension = "doc";
@@ -43,15 +51,15 @@ namespace ICU_FINAL
                         //docx.ind_stop = 1;
                     }
                     break;
-                case "ppt":
-                    {
-                        ext.extension = "ppt";
-                        ext.header = new byte[] { 0xD0, 0xCF, 0x11, 0xE0, 0xA1, 0xB1, 0x1A, 0xE1 };
-                        ext.footer = new byte[] { 0x50, 0x00, 0x6F, 0x00, 0x77, 0x00, 0x65, 0x00, 0x72, 0x00, 0x50, 0x00, 0x6F, 0x00, 0x69, 0x00, 0x6E, 0x00, 0x74, 0x00, 0x20, 0x00, 0x44, 0x00, 0x6F, 0x00, 0x63, 0x00, 0x75, 0x00, 0x6D, 0x00, 0x65, 0x00, 0x6E, 0x00, 0x74 };
-                        ext.maxsize = -1;
-                        //docx.ind_stop = 1;
-                    }
-                    break;
+                //case "ppt":
+                //    {
+                //        ext.extension = "ppt";
+                //        ext.header = new byte[] { 0xD0, 0xCF, 0x11, 0xE0, 0xA1, 0xB1, 0x1A, 0xE1 };
+                //        ext.footer = new byte[] { 0x50, 0x00, 0x6F, 0x00, 0x77, 0x00, 0x65, 0x00, 0x72, 0x00, 0x50, 0x00, 0x6F, 0x00, 0x69, 0x00, 0x6E, 0x00, 0x74, 0x00, 0x20, 0x00, 0x44, 0x00, 0x6F, 0x00, 0x63, 0x00, 0x75, 0x00, 0x6D, 0x00, 0x65, 0x00, 0x6E, 0x00, 0x74 };
+                //        ext.maxsize = -1;
+                //        //docx.ind_stop = 1;
+                //    }
+                //    break;
                 case "xls":
                     {
                         ext.extension = "xls";
@@ -61,11 +69,20 @@ namespace ICU_FINAL
                         //docx.ind_stop = 1;
                     }
                     break;
-                case "gif":
+                case "gif87a":
                     {
                         ext.extension = "gif";
                         ext.header = new byte[] { 0x47, 0x49, 0x46, 0x38, 0x37, 0x61 };
-                        ext.footer = new byte[] { 0xFE, 0xFF, 0xFF, 0xFF, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x57, 0x00, 0x6F, 0x00, 0x72, 0x00, 0x6B, 0x00, 0x62, 0x00, 0x6F, 0x00, 0x6F, 0x00, 0x6B, 0x00 };
+                        ext.footer = new byte[] { 0x00, 0x3B };
+                        ext.maxsize = -1;
+                        //docx.ind_stop = 1;
+                    }
+                    break;
+                case "gif89a":
+                    {
+                        ext.extension = "gif";
+                        ext.header = new byte[] { 0x47, 0x49, 0x46, 0x38, 0x39, 0x61 };
+                        ext.footer = new byte[] { 0x00, 0x3B };
                         ext.maxsize = -1;
                         //docx.ind_stop = 1;
                     }
@@ -102,6 +119,15 @@ namespace ICU_FINAL
                         ext.extension = "zip";
                         ext.header = new byte[] { 0x50, 0x4B, 0x03, 0x04, 0x14 };
                         ext.footer = new byte[] { 0x50, 0x4B, 0x05, 0x06, 0x00 };
+                        ext.maxsize = -1;
+                        //docx.ind_stop = 1;
+                    }
+                    break;
+                case "html":
+                    {
+                        ext.extension = "html";
+                        ext.header = new byte[] { 0x3C, 0x68, 0x74, 0x6D, 0x6C };
+                        ext.footer = new byte[] { 0x3C, 0x2F, 0x68, 0x74, 0x6D, 0x6C, 0x3E };
                         ext.maxsize = -1;
                         //docx.ind_stop = 1;
                     }

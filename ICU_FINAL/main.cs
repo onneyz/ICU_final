@@ -61,15 +61,20 @@ namespace ICU_FINAL
                 des_path = Path.Combine(cur_path, txtFolder.Text);
                 if (Directory.Exists(des_path) || IsValidPath(des_path) == false)
                 {
-                    MessageBox.Show("Thid folder cannot be created");
+                    MessageBox.Show("This folder cannot be created");
                 }
                 else
                 {
                     //SelectedHDD = new string;
                     SelectedHDD = HDDcomboBox.Text;
+
+
+
                     result form = new result();                    
                     this.Hide();
                     form.Show();
+                    
+                    //form.carve();
                 }
             }
         }
